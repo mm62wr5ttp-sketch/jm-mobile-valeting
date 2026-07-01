@@ -1,0 +1,10 @@
+JM Mobile Valeting GitHub Pages Deployment
+
+1. Upload the contents of this ZIP to your GitHub Pages repository.
+2. The mobile valeting website will be available at:
+   https://mm62wr5ttp-sketch.github.io/jm-exterior-cleaning/mobile-valeting.html
+3. The quote form sends to Formspree:
+   https://formspree.io/f/xzdljjar
+4. Successful form submissions redirect to:
+   https://mm62wr5ttp-sketch.github.io/jm-exterior-cleaning/mobile-valeting-thank-you.html
+5. Replace the images inside /valeting-photos/ with your own photos when ready, keeping the same filenames if you want the page to update without code changes.
