@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://mm62wr5ttp-sketch.github.io/jm-exterior-cleaning/sitemap.xml
