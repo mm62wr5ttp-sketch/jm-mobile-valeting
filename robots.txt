@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mm62wr5ttp-sketch.github.io/jm-mobile-valeting/sitemap.xml
+Sitemap: https://jmmobilevaleting.co.uk/sitemap.xml
